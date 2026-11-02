@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    color: #F94F6D;
+    font: Cursed Timer ULiL;
+    background-color: black;
+    padding: 12px 18px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+button {
+    background-color: #1B244A;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 9px 9px;
+}
+
+#rest-btn {
+    margin: 20px 50px 10px 50px;
+}
